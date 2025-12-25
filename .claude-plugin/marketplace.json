@@ -1,0 +1,17 @@
+{
+  "name": "endlessblink-plugins",
+  "owner": {
+    "name": "endlessblink",
+    "email": "endlessblink@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-dev-infrastructure",
+      "description": "Complete dev infrastructure with 12 AI skills, task coordination hooks, and visual Kanban dashboard",
+      "source": {
+        "source": "github",
+        "repo": "endlessblink/claude-dev-infrastructure"
+      }
+    }
+  ]
+}
